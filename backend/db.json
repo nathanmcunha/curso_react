@@ -1,0 +1,13 @@
+{
+    "users":[{
+        "id": 1 ,
+        "name": "Nathan Cunha",
+        "email": "nathan.cunha@test.com"
+
+    },{   
+        "id": 2 ,
+        "name": "Nathan Martins",
+        "email": "nathan.martins@test.com"
+
+    }]
+}
